@@ -1,0 +1,18 @@
+Tipos de datos
+Un valor en JavaScript siempre pertenece a un tipo de dato determinado. Por ejemplo, un string o un n�mero.
+Hay ocho tipos de datos b�sicos en JavaScript. En este cap�tulo los cubriremos en general y en los pr�ximos hablaremos de cada uno de ellos en detalle.
+Podemos almacenar un valor de cualquier tipo dentro de una variable. Por ejemplo, una variable puede contener en un momento un string y luego almacenar un n�mero:
+// no hay error
+let message = "hola";
+message = 123456;
+Los lenguajes de programaci�n que permiten estas cosas, como JavaScript, se denominan �din�micamente tipados�, lo que significa que all� hay tipos de datos, pero las variables no est�n vinculadas r�gidamente a ninguno de ellos.
+
+REACT
+Un componente no es mas que declarar una funcion. El componente devuelve un JSX, un codigo parecido a HTML que no lo es(azucarillo sintactico)
+Un componente, como una funcion, puede tener parametros que en React se llama props
+
+
+Instalar eslint, prettier y error lens en VSCODE
+
+React developement tool en firefox
+
